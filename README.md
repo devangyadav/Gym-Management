@@ -33,7 +33,6 @@ This system was designed to efficiently manage gym activities including secure l
 - View detailed profiles and manage account data.
 
 ![Member Management](3.png)
-![Trainer Profiles](4.png)
 
 ### 🥤 4. Protein Product Sales Module
 - Sell protein and gym products with:
@@ -42,7 +41,7 @@ This system was designed to efficiently manage gym activities including secure l
   - Discount handling
 - Auto-generate receipts via **Crystal Reports**.
 
-![Product Sales](5.png)
+![Product Sales](4.png)
 
 ### ⚙️ 5. Admin Settings
 - Change passwords (both standard and USB-based login).
