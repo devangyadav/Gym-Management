@@ -16,7 +16,7 @@ This system was designed to efficiently manage gym activities including secure l
 - Integrated **USB/Pendrive-based login authentication**.
 - Supports both standard login and hardware-restricted admin login for enhanced security.
 
-![Secure Login](images/1.png
+![Secure Login](1.png)
 
 ### 📊 2. Interactive Dashboard
 - Real-time overview of:
@@ -26,14 +26,14 @@ This system was designed to efficiently manage gym activities including secure l
   - 🧍‍♂️ Membership Insights (active, new, exited)
   - 🧑‍🏫 Trainer Profiles
 
-![Dashboard](images/2.png)
+![Dashboard](2.png)
 
 ### 🧍 3. Member & Trainer Management
 - Add, update, and remove **members** and **trainers**.
 - View detailed profiles and manage account data.
 
-![Member Management](images/3.png)
-![Trainer Profiles](images/4.png)
+![Member Management](3.png)
+![Trainer Profiles](4.png)
 
 ### 🥤 4. Protein Product Sales Module
 - Sell protein and gym products with:
@@ -42,20 +42,20 @@ This system was designed to efficiently manage gym activities including secure l
   - Discount handling
 - Auto-generate receipts via **Crystal Reports**.
 
-![Product Sales](images/5.png)
+![Product Sales](5.png)
 
 ### ⚙️ 5. Admin Settings
 - Change passwords (both standard and USB-based login).
 - Create, update, or delete accounts for trainers and users.
 
-![Admin Settings](images/7.png)
+![Admin Settings](7.png)
 
 ### 🧾 6. Receipt Printing
 - Print transaction receipts for:
   - Product sales
   - Membership plans
  
-![Receipt Example](images/8.png)
+![Receipt Example](8.png)
 
 ### 🗃️ 7. Database Integration
 - Powered by **Microsoft SQL Server**.
@@ -68,8 +68,8 @@ This system was designed to efficiently manage gym activities including secure l
 - Built using **Gunna UI** for a modern and intuitive look.
 - Dark-themed layout with clear data visualization and smooth navigation.
 
-![UI Example](images/9.png)
-![More Features](images/10.png)
+![UI Example](9.png)
+![More Features](10.png)
 
 ---
 
