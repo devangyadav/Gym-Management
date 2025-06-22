@@ -47,14 +47,13 @@ This system was designed to efficiently manage gym activities including secure l
 - Change passwords (both standard and USB-based login).
 - Create, update, or delete accounts for trainers and users.
 
-![Admin Settings](7.png)
+![Admin Settings](25.png)
 
 ### 🧾 6. Receipt Printing
 - Print transaction receipts for:
   - Product sales
   - Membership plans
  
-![Receipt Example](8.png)
 
 ### 🗃️ 7. Database Integration
 - Powered by **Microsoft SQL Server**.
