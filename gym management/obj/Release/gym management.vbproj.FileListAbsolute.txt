@@ -1,0 +1,56 @@
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\bin\Release\gym management.exe.config
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\bin\Release\gym management.exe
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\bin\Release\gym management.pdb
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\bin\Release\gym management.xml
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\bin\Release\Guna.UI2.dll
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\bin\Release\Microsoft.VisualStudio.LiveShare.dll
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\bin\Release\Microsoft.VisualStudio.LiveShare.xml
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\obj\Release\gym_management.login.resources
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\obj\Release\gym_management.Mainfrm.resources
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\obj\Release\gym_management.Resources.resources
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\obj\Release\gym_management.Usbsetupfrm.resources
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\obj\Release\gym management.vbproj.GenerateResource.cache
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\obj\Release\gym management.vbproj.CoreCompileInputs.cache
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\obj\Release\gym management.vbproj.CopyComplete
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\obj\Release\gym management.exe
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\obj\Release\gym management.xml
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\obj\Release\gym management.pdb
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\bin\Release\en-IN\gym management.resources.dll
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\obj\Release\gym_management.Mainfrm.en-IN.resources
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\obj\Release\en-IN\gym management.resources.dll
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\obj\Release\gym_management.Dashboardfrm.resources
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\obj\Release\gym_management.Maintenancefrm.resources
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\obj\Release\gym_management.Productsfrm.resources
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\obj\Release\gym_management.Settingsfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym_management.Datafilefrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym_management.Allmembersfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym_management.AddProfile.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym management.vbproj.ResolveComReference.cache
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym_management.cardioandstrengthfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym_management.cardiomemberfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym_management.exmembersfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym_management.personalfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym_management.strengthfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym_management.Memberfeesfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym_management.plansfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym_management.AddProductfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym_management.trainersalaryfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym_management.stockfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym_management.soldproductfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym_management.expireproductfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym_management.buyerfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym_management.purchasefrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym_management.alltrainerfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym_management.cardiotrainerfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym_management.cardiostrengthtrainerfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym_management.extrainerfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym_management.strengthtrainerfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym_management.personaltrainerfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym management.vbproj.AssemblyReference.cache
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym_management.gymelectricitybill.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym_management.gymequipmentfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\gym_management.notificationfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\bin\Release\Interop.AcroPDFLib.dll
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\bin\Release\AxInterop.AcroPDFLib.dll
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\Interop.AcroPDFLib.dll
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Release\AxInterop.AcroPDFLib.dll

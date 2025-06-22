@@ -1,0 +1,52 @@
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\bin\Debug\gym management.exe.config
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\bin\Debug\gym management.exe
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\bin\Debug\gym management.pdb
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\bin\Debug\gym management.xml
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\bin\Debug\Guna.UI2.dll
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.Resources.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym management.vbproj.GenerateResource.cache
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym management.vbproj.CoreCompileInputs.cache
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym management.vbproj.CopyComplete
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym management.exe
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym management.xml
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym management.pdb
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\bin\Debug\Microsoft.VisualStudio.LiveShare.dll
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\bin\Debug\Microsoft.VisualStudio.LiveShare.xml
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\obj\Debug\gym_management.Mainfrm.resources
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\obj\Debug\gym_management.Usbsetupfrm.resources
+D:\Devang\College\sem 5\PROJECT\Gym Management\gym management\obj\Debug\gym_management.login.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\bin\Debug\en-IN\gym management.resources.dll
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym management.vbproj.AssemblyReference.cache
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym management.vbproj.ResolveComReference.cache
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.Allmembersfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.alltrainerfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.buyerfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.cardioandstrengthfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.cardiomemberfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.cardiostrengthtrainerfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.cardiotrainerfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.Dashboardfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.Datafilefrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.exmembersfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.expireproductfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.extrainerfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.Maintenancefrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.AddProfile.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.Memberfeesfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.notificationfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.personalfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.personaltrainerfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.Plansfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.Productsfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.purchasefrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.Settingsfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.AddProductfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.soldproductfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.stockfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.strengthfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.strengthtrainerfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.trainersalaryfrm.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.Mainfrm.en-IN.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\en-IN\gym management.resources.dll
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.gymelectricitybill.resources
+D:\Devang\College\sem 5\PROJECT\gym management\gym management\obj\Debug\gym_management.gymequipmentfrm.resources
